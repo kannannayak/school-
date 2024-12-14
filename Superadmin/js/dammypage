@@ -1,0 +1,1 @@
+html += "<td style='display:flex;justify-content: space-around;padding: 16px;';><i class='edit-product fa fa-edit btn btn-primary' data-eid='" + value.id + "'></i> <i class='delete-slider fa fa-trash-o btn btn-danger' data-id='" + value.id + "'></i></td>";
